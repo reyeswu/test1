@@ -3,3 +3,4 @@
 3. modify in t3
 4. Modify in t4
 5. study "How to merge from branch"
+6. use git commit -a and doesn't use git add.
