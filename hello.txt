@@ -1,4 +1,5 @@
-hello
-hello2
-modify in t3
-Modify in t4
+1. hello
+2. hello2
+3. modify in t3
+4. Modify in t4
+5. study "How to merge from branch"
